@@ -1,5 +1,5 @@
 # Hospital-API
-  - Coding Ninjas Skill Test Assignment
+  
  
 <!-- TABLE OF CONTENTS -->
 <details>
